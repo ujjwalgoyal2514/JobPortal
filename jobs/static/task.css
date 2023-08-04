@@ -1,0 +1,112 @@
+
+    .container-fluid{
+       
+        padding:0px;
+    }
+    input{
+      border-radius: 15px;
+    }
+    h1 {
+        font-size: 2.5rem;
+        margin: 0;
+    }
+    
+    .contact-form,
+    .contact-info,
+    .map {
+        margin-bottom: 2rem;
+    }
+    
+    .contact-form h2,
+    .contact-info h2,
+    .map h2 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+    
+    form {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .form-group {
+        flex: 0 0 100%;
+        margin-bottom: 1rem;
+    }
+    
+    .form-control {
+        width: 100%;
+        padding: 0.75rem;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    
+    textarea.form-control {
+        resize: vertical;
+    }
+    
+    .btn {
+        padding: 0.75rem 1.5rem;
+    }
+    
+    ul {
+      list-style: none;
+        padding: 0;
+    }
+    
+    ul li {
+        margin-bottom: 0.5rem;
+    }
+    
+    footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 1rem;
+        width: 100%;
+        margin-left: 0px;
+    }
+    li a{
+      font-size: 20px;
+    }
+  
+  
+  
+  .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+      
+  }
+  .team-members h2,
+  .mission-values h2,
+  .contact-form h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+  }
+  .team-members{
+    margin-top: 10px;
+  }
+  
+  /* .team-member img {
+      border-radius: 4px  !important;
+      margin-bottom: 1rem;
+  } */
+  .employe{
+    margin-top: 1rem;
+    border-radius: 15px  !important;
+    margin-bottom: 2rem;
+  }
+  
+  .mission-values p {
+      margin-bottom: 1rem;
+  }
+  
+  .mission-values ul {
+      list-style: none;
+      padding: 0;
+  }
+  
+  .mission-values ul li {
+      margin-bottom: 1rem;
+  }
